@@ -9,3 +9,4 @@ console.log(null === 0);
 
 // tripple equality => strict check => checks the value as well as the data type.
 
+// another note, in order to make a number bigInt, we just have to add n at the end of it.
