@@ -34,7 +34,7 @@ console.log(typeof null); // object
 // boolean => boolean
 // string => string
 // null => object
-// function => function
+// function => function / object function
 // symbol => symbol
 // bigInt => bigint
 // undefined => undefined
