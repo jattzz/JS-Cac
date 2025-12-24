@@ -28,3 +28,13 @@ let state = null;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+// 7 data types and their return types
+// number => number
+// boolean => boolean
+// string => string
+// null => object
+// function => function
+// symbol => symbol
+// bigInt => bigint
+// undefined => undefined
