@@ -91,5 +91,4 @@ let score1 = 10, score2 = 20, score3 = 30;
 
 console.log(Array.of(score1, score2, score3)); 
 // returns an array comprised of those 3 values.
-
-
+//
